@@ -13,10 +13,10 @@ He graduated Korea Military Academy in 2015 major in CS.
 
 ## Experience & Activities
 
-· Mobilization System Officer, Operation department, 35th Infantry Division	Dec 2017 – Dec 2018
-· Officer’s English Course, Korea Defense Language Institute	 Jul 2017 – Dec 2017
-· Operation Officer, 112st Battalion, 11th Signal Group, First Republic of Korea Army	Jun 2016 – Jun 2017
-· Platoon Leader, 112st Battalion, 11th Signal Group, First Republic of Korea Army	Jun 2015 – Jun 2016
-· Officer’s Basic Course, Army Signal School  * Final Grade : A	Mar 2015 – Jun 2015
+· Mobilization System Officer	Dec 2017 – Dec 2018
+· Korea Defense Language Institute Jul 2017 – Dec 2017
+· Operation Officer, 112st Battalion, 11th Signal Group	Jun 2016 – Jun 2017
+· Platoon Leader, 112st Battalion, 11th Signal Group Jun 2015 – Jun 2016
+· Officer’s Basic Course, Army Signal School  Mar 2015 – Jun 2015
 · Cadet, Korea Military Academy	   Mar 2011 – Mar 2015
 
