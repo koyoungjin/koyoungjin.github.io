@@ -16,4 +16,6 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+layout: defalt
+comments: true
 disqus_shortname: 'youngjinko'
