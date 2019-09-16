@@ -9,7 +9,7 @@ categories: posts
 ## Introducing Myself
 
 Youngjin Ko is Grad student in Colorad boulder(from 2019.8)
-He graduated Korea Military Academy in 2015 major in CS.
+He graduated Korea Military Academy in 2015, majored in CS.
 
 ## Experience & Activities
 
