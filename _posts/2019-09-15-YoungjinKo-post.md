@@ -8,8 +8,13 @@ categories: posts
 
 ## Introducing Myself
 
-Youngjin Ko is Grad student in Colorad boulder(from 2019.8)
+Youngjin Ko is Grad student in Colorad boulder(from 2019.8)  
 He graduated Korea Military Academy in 2015, majored in CS.
+
+## Research Area
+
+Interested in Network and Security  
+(looking for lab for Research)
 
 ## Experience & Activities
 
