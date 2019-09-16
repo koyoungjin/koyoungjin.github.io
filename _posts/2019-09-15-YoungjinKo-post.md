@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Youngjin KO's personal blog
+title: Youngjin KO's blog
 cover: cover.jpg
 date:   2019-09-15 15:30:00
 categories: posts
