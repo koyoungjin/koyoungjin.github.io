@@ -16,3 +16,4 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+disqus_shortname: 'youngjinko'
